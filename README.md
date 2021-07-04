@@ -4,7 +4,7 @@
 
 | DIO.Bank  | Código                                                       |
 | --------- | :----------------------------------------------------------- |
-| Classes   | [Conta](https://github.com/pvsantos87/DIO-Transferencia-Bancaria) |
+| Classes   | [Conta](https://github.com/pvsantos87/DIO-Transferencia-Bancaria/tree/master/Classes) |
 | Enum      | TipoConta                                                    |
 | Principal | Program                                                      |
 
