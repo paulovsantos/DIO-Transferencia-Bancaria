@@ -8,8 +8,8 @@
 
 | DIO.Bank      | Código                                                       |
 | ------------- | :----------------------------------------------------------- |
-| **Classes**   | [Conta]("https://github.com/pvsantos87/DIO-Transferencia-Bancaria") |
-| **Enum**      | [TipoConta]([DIO-Transferencia-Bancaria/TipoConta.cs at master · pvsantos87/DIO-Transferencia-Bancaria (github.com)](https://github.com/pvsantos87/DIO-Transferencia-Bancaria/blob/master/Enum/TipoConta.cs)) |
+| **Classes**   | [Conta](https://github.com/pvsantos87/DIO-Transferencia-Bancaria/tree/master/Classes) |
+| **Enum**      | [TipoConta](https://github.com/pvsantos87/DIO-Transferencia-Bancaria/tree/master/Enum) |
 | **Principal** | [Program](https://github.com/pvsantos87/DIO-Transferencia-Bancaria/blob/master/Program.cs) |
 
 
